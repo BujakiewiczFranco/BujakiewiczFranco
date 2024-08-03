@@ -1,6 +1,6 @@
 ## I am Franco Bujakiewicz, a programming student and a simp of Ada Lovelace ❤️‍🔥 
 
-I from Argentina 🇦🇷
+From Argentina , Misiones 🇦🇷 
 
 Actually learning Java ☕
 
