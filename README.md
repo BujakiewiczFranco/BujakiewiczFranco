@@ -4,7 +4,7 @@ Actually learning Java ☕
 
 Interested to Backend 💾 and in a future to Mobile 📱
 
-Possible roadmap: Java ☕ , Kotlin 🇳🇵 , OOP 🧊 , SQL 🗓️ , Python 🐍 and Ruby 💎
+Main roadmap: Java ☕ , OOP 🧊 , SQL 🗓️ , Kotlin 🇳🇵 and Python 🐍
 
-
+Secondary roadmap: Lisp ☯️ , Ruby 💎 and Ada ❤️
 
