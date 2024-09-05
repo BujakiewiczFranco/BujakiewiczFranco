@@ -8,3 +8,5 @@ Main roadmap: Java ☕ , OOP 🧊 , SQL 🗓️ , Kotlin 🇳🇵 and Python �
 
 Secondary roadmap: Lisp ☯️ , Ruby 💎 and Ada ❤️
 
+I use Arch btw.
+
