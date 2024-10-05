@@ -1,12 +1,36 @@
-From Argentina , Misiones 🇦🇷 
+# About me
+-------------------------------------------------------------------------------------------------------
 
-Actually learning Java ☕
+From Argentina 🇦🇷 , Misiones  
 
-Interested to Backend 💾 and in a future to Mobile 📱
+Studying in E.P.E.T. N°7 🛠️🔥, Computer Science orientation 💻  
 
-Main roadmap: Java ☕ , OOP 🧊 , SQL 🗓️ , Kotlin 🇳🇵 and Python 🐍
+16 years old 🤓
 
-Secondary roadmap: Lisp ☯️ , Ruby 💎 and Ada ❤️
+-------------------------------------------------------------------------------------------------------
 
-I use Arch btw.
+# Main roadmap
 
+--------------------------------------------------------------
+
+Starting at backend ⚙️ : Java ☕ , OOP 🧊 , SQL 🗓️, Ruby 💎 & Python 🐍
+
+Futurously mobile 📱 : Kotlin 🇳🇵, Flutter 🐦 and Dart 🎯
+
+-------------------------------------------------------------
+# Others interest
+
+-------------------------------------------------------------
+Functoinal programming: Lisp ☯️
+
+Low level programming: Ada ❤️
+
+-------------------------------------------------------------
+
+#
+-------------------------------------------------------------
+Actually learning Java ☕ 
+
+I use Arch btw 🐧
+
+-------------------------------------------------------------
