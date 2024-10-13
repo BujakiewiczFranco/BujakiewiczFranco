@@ -13,7 +13,7 @@ Studying in E.P.E.T. N°7 🛠️🔥, Computer Science orientation 💻
 
 --------------------------------------------------------------
 
-Starting at backend ⚙️ : Java ☕ , OOP 🧊 , SQL 🗓️, Ruby 💎 & Python 🐍
+Starting at backend ⚙️ : Java ☕ , OOP 🧊 , SQL 🗓️ & Ruby 💎 
 
 Futurously mobile 📱 : Kotlin 🇳🇵, Flutter 🐦 and Dart 🎯
 
